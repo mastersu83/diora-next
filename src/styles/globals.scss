@@ -1,0 +1,17 @@
+@import "./variables";
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Courier New", serif;
+  color: $mainColor;
+}
+
+a {
+  text-decoration: none;
+  color: $mainColor;
+}
