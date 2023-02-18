@@ -165,6 +165,11 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.1.tgz#841b532c45c758ee546a11d5bd7b7b473c8c30b9"
   integrity sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==
 
+emailjs-com@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/emailjs-com/-/emailjs-com-3.2.0.tgz#a53cb22f1bc433c701c84c53d8b56eefd5ce7111"
+  integrity sha512-Prbz3E1usiAwGjMNYRv6EsJ5c373cX7/AGnZQwOfrpNJrygQJ15+E9OOq4pU8yC977Z5xMetRfc3WmDX6RcjAA==
+
 fill-range@^7.0.1:
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/fill-range/-/fill-range-7.0.1.tgz#1919a6a7c75fe38b2c7c77e5198535da9acdda40"
@@ -278,6 +283,11 @@ postcss@8.4.14:
     nanoid "^3.3.4"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
+
+react-content-loader@^6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/react-content-loader/-/react-content-loader-6.2.0.tgz#cd8fee8160b8fda6610d0c69ce5aee7b8094cba6"
+  integrity sha512-r1dI6S+uHNLW68qraLE2njJYOuy6976PpCExuCZUcABWbfnF3FMcmuESRI8L4Bj45wnZ7n8g71hkPLzbma7/Cw==
 
 react-dom@18.2.0:
   version "18.2.0"

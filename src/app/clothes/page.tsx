@@ -25,7 +25,7 @@ const Clothes = async () => {
             src={girlImage}
             alt=""
           />
-          <Link href="/girl-cloth">
+          <Link href="clothes/girl">
             <button
               className={`${styles.clothes__girlImgBtn} ${styles.clothes__btn}`}
             >
@@ -40,7 +40,7 @@ const Clothes = async () => {
             src={boyImage}
             alt=""
           />
-          <Link href="/boy-cloth">
+          <Link href="clothes/boy">
             <button
               className={`${styles.clothes__boyImgBtn} ${styles.clothes__btn}`}
             >

@@ -12,10 +12,10 @@ const Menu = () => {
       <Link href="clothes" className={styles.menu__activeLink}>
         <li className={styles.menu__link}>НАРЯДНАЯ ОДЕЖДА</li>
       </Link>
-      <Link href="others-cloth" className={styles.menu__activeLink}>
+      <Link href="clothes/others" className={styles.menu__activeLink}>
         <li className={styles.menu__link}>КОНВЕРТЫ, ПЛЕДЫ, КОРЗИНЫ</li>
       </Link>
-      <Link href="contact" className={styles.menu__activeLink}>
+      <Link href="contacts" className={styles.menu__activeLink}>
         <li className={styles.menu__link}>КОНТАКТЫ</li>
       </Link>
       {!isAuth ? (
