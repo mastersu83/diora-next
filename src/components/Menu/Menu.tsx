@@ -3,7 +3,7 @@ import styles from "./Menu.module.scss";
 import Link from "next/link";
 
 const Menu = () => {
-  const isAuth = false;
+  const isAuth = true;
   return (
     <ul className={styles.menu}>
       <Link href="/" className={styles.menu__activeLink}>

@@ -13,9 +13,7 @@ export const Button: FC<ButtonPropsTypes> = ({ text, onClick, logOut }) => {
       {!logOut ? (
         <button className={classes.form__button}>{text}</button>
       ) : (
-        <button onClick={onClick} className={classes.form__button}>
-          {text}
-        </button>
+        <button className={classes.form__button}>{text}</button>
       )}
     </>
   );

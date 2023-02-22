@@ -1,3 +1,5 @@
+"use client";
+
 import React, { ChangeEvent, useState } from "react";
 import { Input } from "./Input";
 import classes from "./Form.module.scss";
